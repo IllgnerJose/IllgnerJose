@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/illgner-josé-44586925b/)
 
-![Illgner GitHub stats](https://github-readme-stats.vercel.app/api?username=IllgnerJose&show_icons=true&theme=midnight-purple&count_private=true)
+![Illgner GitHub stats](https://github-readme-stats.vercel.app/api?username=IllgnerJose&theme=dark&show_icons=true)
 
 ## Tecnologias que estou estudando atualmente:
 
