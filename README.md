@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Illgner José
 
 - 🔭 Sistemas de Informação(4/8)
-- 🌱 Estudando no momento Segurança (InfoSec/CyberSec)
+- 🐘 Estudando PHP (BackEnd)
 
 <div>
   <a href="https://github.com/IllgnerJose">
