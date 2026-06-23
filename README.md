@@ -1,4 +1,4 @@
-- 🔭 Sistemas de Informação (8/8)
+🔭 Sistemas de Informação (8/8)
 
 
 
